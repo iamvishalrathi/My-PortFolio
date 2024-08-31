@@ -11,10 +11,6 @@ Hello! I am Vishal Kumar, a passionate software developer with expertise in java
 **Tools & Technologies**: Git, MongoDB, Linux, Express, Bootstrap, Tailwind, React.
 **Coursework**: MERN Stack Development, Data Structures & Algorithms, Object-Oriented Programming
 
-
-### **Screenshot**
-![image](https://github.com/iamvishalrathi/Chatterly/blob/main/frontend/src/assets/sns.png)
-
 ## **Contact**
 For any questions, suggestions, or feedback, feel free to reach out:
 - **Email:** [rajatrathi029@gmail.com](mailto:rajatrathi029@gmail.com)
