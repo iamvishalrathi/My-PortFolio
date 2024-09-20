@@ -1,4 +1,3 @@
-
 let form = document.querySelector(".contact__form form")
 form.addEventListener('submit', async function(e){
   e.preventDefault();
