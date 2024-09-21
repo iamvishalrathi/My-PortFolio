@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "aos": "^2.3.4",
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.1.7"
   },
   "devDependencies": {
     "vite": "^5.2.0"

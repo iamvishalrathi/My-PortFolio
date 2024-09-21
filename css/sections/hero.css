@@ -135,23 +135,23 @@
     text-align: center;
 }
 
-.leetcode , .gfg{
+.linkedin , .github{
     flex :1;
 }
 
-.leetcode img {
-    width:70%; 
+.linkedin img {
+    width:1rem; 
     cursor: pointer;
     transition: transform ease-in 0.3s;
 }
 
-.gfg img{
-    width:80%; 
+.github img{
+    width:1rem; 
     cursor: pointer;
     transition: transform ease-in 0.3s;
 }
 
-.leetcode img:hover , .gfg img:hover{
+.linkedin img:hover , .github img:hover{
     transform: scale(1.1);
 }
 
