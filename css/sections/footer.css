@@ -7,10 +7,10 @@
   gap: 20px;
 
   overflow: hidden;
-  /* Center footer on small devices */
+
   @media (max-width: 768px) {
     display: flex;
-    justify-content: center;
+    justify-content: center !important;
   }
 }
 
@@ -39,6 +39,18 @@
 
 .footer ul:last-child {
   gap: 32px;
+}
+
+.footer__nav {
+  @media (max-width: 768px) {
+    flex-wrap: nowrap;
+    gap: 50px !important;
+
+    /* Distribute links evenly */
+    li {
+      flex: 0 0 0%;
+    }
+  }
 }
 
 .footer__nav li {

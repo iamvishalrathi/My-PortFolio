@@ -1,5 +1,3 @@
-
-
 let menu = document.getElementsByClassName('hamburger')[0];
 
 let des = document.getElementsByClassName("desktop")[0];
