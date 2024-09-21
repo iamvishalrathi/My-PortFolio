@@ -143,6 +143,9 @@
     width: 80%;
     cursor: pointer;
     transition: transform ease-in 0.3s;
+    @media (max-width: 768px) {
+        width: 100%;
+      }
   }
 
   img:hover {
